@@ -29,7 +29,6 @@ _Pode ser utilizado outras ferramentas, considere as listadas abaixo como sugest
 ### Verificação do Carrinho:
 - [ ] Acessar o carrinho de compras para verificar se o produto está listado corretamente.
 - [ ] Iniciar o Processo de Checkout:
-- [ ] Iniciar o processo de checkout.
 - [ ] Preencher as informações necessárias para entrega.
 
 ### Seleção do Método de Pagamento:
