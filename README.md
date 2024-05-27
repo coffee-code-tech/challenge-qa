@@ -1,4 +1,4 @@
-# challenge-qa
+# challenge-QA
 
 ## Objetivo:
 O objetivo deste teste é verificar a funcionalidade do processo de compra no site https://challenge.homolog.tech/, desde a seleção do produto até a finalização do pedido, utilizando ferramentas modernas para automação e registro de resultados.
